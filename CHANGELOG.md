@@ -2,6 +2,67 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.3](https://github.com/antfu/i18n-ally/compare/v2.3.2...v2.3.3) (2020-08-17)
+
+### [2.3.2](https://github.com/antfu/i18n-ally/compare/v2.3.1...v2.3.2) (2020-08-12)
+
+### [2.3.1](https://github.com/antfu/i18n-ally/compare/v2.3.0...v2.3.1) (2020-08-12)
+
+
+### ⚡ Features
+
+* improve extracting command ([2bd4855](https://github.com/antfu/i18n-ally/commit/2bd4855a4071370bcafdd44ba5951d64a364e9cf)), closes [#369](https://github.com/antfu/i18n-ally/issues/369)
+
+
+### 🌍 Internationalization
+
+* update zh-cn & zh-tw ([a980d44](https://github.com/antfu/i18n-ally/commit/a980d44d531d72707dd3c9b291cc07b5cd967b1c))
+
+## [2.3.0](https://github.com/antfu/i18n-ally/compare/v2.2.16...v2.3.0) (2020-08-12)
+
+
+### ⚡ Features
+
+* added keypath autocompletion ([#367](https://github.com/antfu/i18n-ally/issues/367)) ([76d31b4](https://github.com/antfu/i18n-ally/commit/76d31b45f8ab38c55db9872fce89cb1aac6a007d))
+* better extrat prompt ([1c8a33f](https://github.com/antfu/i18n-ally/commit/1c8a33fc511ac9f477af70a5f09738a736cf7683))
+
+### [2.2.16](https://github.com/antfu/i18n-ally/compare/v2.2.15...v2.2.16) (2020-08-10)
+
+
+### 🐞 Bug Fixes
+
+* i18n ([f637b2b](https://github.com/antfu/i18n-ally/commit/f637b2b8c802a57e446f0d5a74e303fdba1779a6))
+
+### [2.2.15](https://github.com/antfu/i18n-ally/compare/v2.2.11...v2.2.15) (2020-08-10)
+
+
+### 🐞 Bug Fixes
+
+* **actions:** publish script ([c8ce53d](https://github.com/antfu/i18n-ally/commit/c8ce53df6fb22cc959def17106d86b996d7ca5c8))
+
+### [2.2.14](https://github.com/antfu/i18n-ally/compare/v2.2.13...v2.2.14) (2020-08-10)
+
+### [2.2.13](https://github.com/antfu/i18n-ally/compare/v2.2.12...v2.2.13) (2020-08-10)
+
+
+### 🐞 Bug Fixes
+
+* engine version ([e5db25d](https://github.com/antfu/i18n-ally/commit/e5db25dbec8da1605cd4130db818082d04810049))
+
+### [2.2.12](https://github.com/antfu/i18n-ally/compare/v2.2.11...v2.2.12) (2020-08-10)
+
+
+### 🐞 Bug Fixes
+
+* **actions:** publish script ([c187d00](https://github.com/antfu/i18n-ally/commit/c187d009d80244273904e373a225643f29787e9d))
+
+### [2.2.11](https://github.com/antfu/i18n-ally/compare/v2.2.10...v2.2.11) (2020-08-10)
+
+
+### ⚡ Features
+
+* update vue-i18n match regex ([9da2a6d](https://github.com/antfu/i18n-ally/commit/9da2a6d31d20f26753a8635dbf0580f69970d421))
+
 ### [2.2.10](https://github.com/antfu/i18n-ally/compare/v2.2.9...v2.2.10) (2020-07-25)
 
 
